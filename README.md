@@ -2,7 +2,7 @@
 
 A modern, user-friendly, native Android application built in **Kotlin** with **Jetpack Compose**. It allows users to quickly and efficiently scan and generate QR codes, offering a seamless user experience with all the essential features.
 
-<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Coming soon in Play Store" width="200">
+<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Coming soon on Google Play Store" width="200">
 
 ### ⚠️ Coming soon to the Google Play Store
 *(The app is currently under review for publication)*
