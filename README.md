@@ -28,6 +28,8 @@ A modern, user-friendly, native Android application built in **Kotlin** with **J
 | **Camera**                | Camera X                               |
 | **QR Detection**          | ML Kit                                 |
 | **Image Loading**         | Coil                                   |
+| **Analytics**             | Firebase Analytics                     |
+| **Crash Reporting**       | Firebase Crashlytics                   |
 
 ## 📸 Screenshots
 
