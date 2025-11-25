@@ -14,6 +14,7 @@ A modern, user-friendly, native Android application built in **Kotlin** with **J
 * **Quick Actions**: Offers immediate contextual actions based on the type of QR code detected (open browser, connect to Wi-Fi, add contact, etc.).
 * **QR Creator**: Generates QR codes for multiple purposes: URL, Wi-Fi, Email, Phone, Location, and Text.
 * **Advanced Customization**: Allows you to customize the generated QR codes (colors, styles, etc.).
+* **Created QR History**: Keeps a record of all created QR codes, allowing you to view, share, or delete them later.
 * **Splash Screen**: Includes a Splash Screen with smooth animation.
 * **Multiple languages supported**: The application is available in multiple languages: English, Spanish, Portuguese, Italian and French.
 
@@ -25,6 +26,7 @@ A modern, user-friendly, native Android application built in **Kotlin** with **J
 | **Architecture**          | MVVM & Clean Architecture              |
 | **Dependency Injections** | Koin                                   |
 | **Navigation**            | Compose Navigation                     |
+| **Local Database**        | Room                                   |
 | **Camera**                | Camera X                               |
 | **QR Detection**          | ML Kit                                 |
 | **Image Loading**         | Coil                                   |
