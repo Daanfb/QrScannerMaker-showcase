@@ -24,7 +24,7 @@ A modern, user-friendly, native Android application built in **Kotlin** with **J
 |:--------------------------| :------------------------------------- |
 | **UI**                    | Jetpack Compose                        |
 | **Architecture**          | MVVM & Clean Architecture              |
-| **Dependency Injections** | Koin                                   |
+| **Dependency Injection**  | Koin                                   |
 | **Navigation**            | Compose Navigation                     |
 | **Local Database**        | Room                                   |
 | **Camera**                | Camera X                               |
