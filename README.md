@@ -36,15 +36,17 @@ A modern, user-friendly, native Android application built in **Kotlin** with **J
 ## 📸 Screenshots
 
 
-|                                      **No Camera Permission**                                      |                                      **Create QR - Types**                                      |                                     **Create QR - URL**                                     |
-|:------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------:|
-|   <img src="screenshots/en_no_camera_permission.png" alt="Initial Screen with no camera permission" width="200"/>    |     <img src="screenshots/en_create_qr_types.png" alt="QR types" width="200"/>      |    <img src="screenshots/en_create_qr_url.png" alt="Create URL QR" width="200"/>    |
-|                                           **Customize QR - Initial**                                            |                                            **Customize QR - Advanced Settings**                                            |                                        **Customize QR (Logo added)**                                        |
-|          <img src="screenshots/en_customize_qr_initial.png" alt="Initial screen of customizing QR" width="200"/>           |    <img src="screenshots/en_customize_qr_advanced_settings.png" alt="Advanced customizing QR settings " width="200"/>    |           <img src="screenshots/en_customize_qr_logo.png" alt="Customize qr with logo" width="200"/>            |
-|                                          **Share QR Screen**                                           |                                       **Share QR (After click share button)**                                        |                                      **Scan Image From Gallery**                                       |
-| <img src="screenshots/en_share_qr.png" alt="Share QR Screen" width="200"/> |     <img src="screenshots/en_share_qr_bottom_sheet.jpg" alt="Share QR bottom sheet" width="200"/>     | <img src="screenshots/en_scan_image_from_gallery.png" alt="Scan image from gallery" width="200"/> |
-|                                       **URL QR Actions**                                       |                                             **Scan QR from Camera**                                             |                                           **Phone QR Actions**                                            |
-| <img src="screenshots/en_actions_url_qr.png" alt="URL QR Actions" width="200"/>  | <img src="screenshots/en_scan_qr_camera.png" alt="Scan phone QR from camera" width="200"/> |              <img src="screenshots/en_actions_phone_qr.png" alt="Phone QR Actions" width="200"/>              |
+| **No Camera Permission** | **Create QR - Types** | **Create QR - URL** |
+|:---:|:---:|:---:|
+| <img src="screenshots/en_no_camera_permission.png" alt="Initial Screen with no camera permission" width="200"/> | <img src="screenshots/en_create_qr_types.png" alt="QR types" width="200"/> | <img src="screenshots/en_create_qr-url.png" alt="Create URL QR" width="200"/> |
+| **Customize QR - Initial** | **Customize QR - Advanced Settings** | **Customize QR (Logo added)** |
+| <img src="screenshots/en_customize_qr_initial.png" alt="Initial screen of customizing QR" width="200"/> | <img src="screenshots/en_customize_qr_advanced_settings.png" alt="Advanced customizing QR settings " width="200"/> | <img src="screenshots/en_customize_qr_logo.png" alt="Customize qr with logo" width="200"/> |
+| **Share QR Screen** | **Share QR (After click share button)** | **Scan Image From Gallery** |
+| <img src="screenshots/en_share_qr.png" alt="Share QR Screen" width="200"/> | <img src="screenshots/en_share_qr_bottom_sheet.jpg" alt="Share QR bottom sheet" width="200"/> | <img src="screenshots/en_scan_image_from_gallery.png" alt="Scan image from gallery" width="200"/> |
+| **URL QR Actions** | **Scan QR from Camera** | **Phone QR Actions** |
+| <img src="screenshots/en_actions_url_qr.png" alt="URL QR Actions" width="200"/> | <img src="screenshots/en_scan_qr_camera.png" alt="Scan phone QR from camera" width="200"/> | <img src="screenshots/en_actions_phone_qr.png" alt="Phone QR Actions" width="200"/> |
+| **Creation History** | **History Details** | |
+| <img src="screenshots/en_created_qr_history.png" alt="Creation History List" width="200"/> | <img src="screenshots/en_created_qr_details.png" alt="History Item Details" width="200"/> | |
 
 ## 📞 Contact
 
