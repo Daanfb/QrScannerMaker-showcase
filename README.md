@@ -17,6 +17,7 @@ A modern, user-friendly, native Android application built in **Kotlin** with **J
 * **Scanned & Created History**: Keeps a complete record of both scanned and created QR codes for quick access.
 * **Smart History Management**: Includes an interactive tutorial demonstrating **Swipe-to-Dismiss** gestures to easily archive or delete items from your scanned QR history.
 * **Splash Screen**: Includes a Splash Screen with smooth animation.
+* **TalkBack Support**: Optimized for accessibility.
 * **Multiple languages supported**: The application is available in multiple languages: English, Spanish, Portuguese, Italian and French.
 
 ## 🛠️ Tech Stack
