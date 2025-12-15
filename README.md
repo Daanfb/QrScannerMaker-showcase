@@ -48,7 +48,7 @@ A modern, user-friendly, native Android application built in **Kotlin** with **J
 | **Share QR Screen** | **Share QR (After click share button)** | **Scan Image From Gallery** |
 | <img src="screenshots/en_share_qr.png" alt="Share QR Screen" width="200"/> | <img src="screenshots/en_share_qr_bottom_sheet.jpg" alt="Share QR bottom sheet" width="200"/> | <img src="screenshots/en_scan_image_from_gallery.png" alt="Scan image from gallery" width="200"/> |
 | **URL QR Actions** | **Scan QR from Camera** | **Phone QR Actions** |
-| <img src="screenshots/en_actions_url_qr.png" alt="URL QR Actions" width="200"/> | <img src="screenshots/en_scan_qr_camera.png" alt="Scan phone QR from camera" width="200"/> | <img src="screenshots/en_actions_phone_qr.png" alt="Phone QR Actions" width="200"/> |
+| <img src="screenshots/en_actions_url_qr.png" alt="URL QR Actions" width="200"/> | <img src="screenshots/en_scan_qr_from_camera.png" alt="Scan phone QR from camera" width="200"/> | <img src="screenshots/en_actions_qr_phone.png" alt="Phone QR Actions" width="200"/> |
 | **Scanned QR History** | **Created QR History** | **History URL QR Details** |
 | <img src="screenshots/en_scanned_qr_history.png" alt="Scanned QR history" width="200"/> | <img src="screenshots/en_created_qr_history.png" alt="Created QR History" width="200"/> | <img src="screenshots/en_created_url_qr_details.png" alt="History QR Details" width="200"/> |
 
