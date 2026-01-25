@@ -1,4 +1,4 @@
-## QR Code: Scanner & Creator
+## QRabbit: QR Scanner & Creator
 
 A modern, user-friendly, native Android application built in **Kotlin** with **Jetpack Compose**. It allows users to quickly and efficiently scan and generate QR codes, offering a seamless user experience with all the essential features.
 
